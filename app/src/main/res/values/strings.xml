@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Satz</string>
+    <string name="word_to_translate">Word to translate</string>
+    <string name="translate">Translate to</string>
+    <string name="API_KEY">trnsl.1.1.20180919T180747Z.84952c29594d80b1.551eed4f9d520ee55d4524ebaacf02aa0c48f4fc</string>
+    <string name="BASE_URL">https://translate.yandex.net/api/v1.5/</string>
+    <string name="translate_to">TRANSLATE TO</string>
+    <string-array name="LANGUAGES">
+        <item>English</item>
+        <item>Russian</item>
+        <item>German</item>
+        <item>Spanish</item>
+        <item>Korean</item>
+        <item>French</item>
+        <item>Kyrgyz</item>
+    </string-array>
+</resources>
